@@ -25,7 +25,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5314dab9b932b65cc40c86ef69aff264",
-    "url": "/react-hooks-minisite/static/media/Aclonica-Regular.5314dab9.ttf"
+    "url": "/codota-react-hooks/static/media/Aclonica-Regular.5314dab9.ttf"
   },
   {
     "revision": "ba13edfb3ac4816c9069a1639e896bf0",
