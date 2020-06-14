@@ -45,7 +45,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "c97a9fc29652bb4afcdac68020e5d0f7",
-    "url": "/react-hooks-minisite/static/media/Merriweather-Regular.c97a9fc2.ttf"
+    "url": "/codota-react-hooks/static/media/Merriweather-Regular.c97a9fc2.ttf"
   },
   {
     "revision": "11eabca2251325cfc5589c9c6fb57b46",
